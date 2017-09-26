@@ -1,0 +1,1 @@
+# bq25895-eagle-library
